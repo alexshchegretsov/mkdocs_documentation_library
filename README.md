@@ -1,3 +1,6 @@
+`contents:`
+=
+
 ```
 nav:
     - tutorials:
