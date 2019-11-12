@@ -1,3 +1,4 @@
+```
 nav:
     - tutorials:
       - mkdocs:
@@ -83,5 +84,5 @@ nav:
       - sort_algorithms
       - search_algorithms
       - data structures
-       
+```    
 
