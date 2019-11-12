@@ -65,8 +65,7 @@ nav:
       - data definition language: "mysql/ddl.md"
       - data manipulaton language: "mysql/dml.md"
       - foreign key: "mysql/foreign_key.md"
-      - natural join: "mysql/natural_join.md"
-      
+      - natural join: "mysql/natural_join.md"      
     - oop:
       - теория ООП:
         - анализ, проектирование, программирование: "oop/theory/ooa_oop_oop.md"
@@ -80,7 +79,6 @@ nav:
       - docker way: "docker/docker_way.md"
       - best practice for creating images: "docker/best_practice_for_creating_images.md"
       - volumes: "docker/volumes.md"
-# добавить секцию
     - algorithms and data structures:
       - sort_algorithms
       - search_algorithms
